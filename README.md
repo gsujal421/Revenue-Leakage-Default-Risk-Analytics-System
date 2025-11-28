@@ -112,15 +112,11 @@ These features capture financial behaviour, payment discipline, and customer val
 
 
 
-KPI Overview (Revenue, Paid, Outstanding)
-
-Invoice Aging Distribution
-
-Customer Risk Scores
-
-Refund Anomaly Detection
-
-ML Feature Importance
+- KPI Overview (Revenue, Paid, Outstanding)
+- Invoice Aging Distribution
+- Customer Risk Scores
+- Refund Anomaly Detection
+- ML Feature Importance
 
 These dashboards help finance, operations, and collections teams prioritize recovery.
 
@@ -128,10 +124,7 @@ These dashboards help finance, operations, and collections teams prioritize reco
 
 ## 🚀 7. Future Enhancements
 
-Add SHAP explainability to the ML model
-
-Build a Streamlit app for invoice risk scoring
-
-Integrate real-time payment refresh via APIs
-
-Build automated alerts for high-risk invoices
+- Add SHAP explainability to the ML model
+- Build a Streamlit app for invoice risk scoring
+- Integrate real-time payment refresh via APIs
+- Build automated alerts for high-risk invoices
