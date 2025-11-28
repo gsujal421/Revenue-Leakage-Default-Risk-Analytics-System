@@ -1,0 +1,121 @@
+customer_id,name,seg,signup_date,region,credit_score
+C1000,"Mills, Cordova and Jackson",SMB,2023-08-17,East,684
+C1001,Johnson-Olsen,SMB,2024-05-16,South,640
+C1002,Anderson Ltd,Individual,2023-07-29,North,695
+C1003,Watts LLC,SMB,2025-05-14,North,756
+C1004,Clark Inc,SMB,2023-07-11,South,633
+C1005,Vazquez-Bowers,Individual,2025-10-31,North,633
+C1006,Smith Group,Individual,2024-02-12,West,760
+C1007,Williams-Rodriguez,Enterprise,2024-03-27,East,703
+C1008,"Palmer, Brown and Wilson",SMB,2023-01-14,West,617
+C1009,Williams-Turner,Enterprise,2024-11-27,South,687
+C1010,Webster Inc,Enterprise,2024-03-16,North,617
+C1011,"Harris, Santana and Lopez",Enterprise,2023-07-09,North,617
+C1012,Johnson-Thomas,Enterprise,2025-01-05,East,666
+C1013,"Mcmahon, Rush and Bailey",Individual,2023-03-30,West,516
+C1014,Wyatt Ltd,Enterprise,2023-09-13,North,529
+C1015,"Allen, Hudson and Garcia",Individual,2024-08-23,East,610
+C1016,"Hines, Rice and Baldwin",Individual,2024-01-29,North,579
+C1017,Jackson-Webster,Individual,2023-04-04,South,671
+C1018,Beltran Inc,SMB,2024-08-15,South,586
+C1019,Knapp Ltd,Enterprise,2023-07-26,East,551
+C1020,Richardson-Lawrence,Individual,2025-07-17,East,752
+C1021,Nunez-Rodriguez,Enterprise,2023-11-30,East,634
+C1022,Zavala-Coleman,Individual,2024-03-05,East,654
+C1023,"Perez, Rodriguez and Rollins",Individual,2023-05-27,South,550
+C1024,Owens PLC,SMB,2024-05-16,West,611
+C1025,Simpson LLC,Enterprise,2025-02-16,South,657
+C1026,"Roberts, Bowen and Miller",SMB,2024-10-26,South,569
+C1027,Wilson-Campbell,Enterprise,2023-03-07,West,676
+C1028,"Fitzgerald, Mcdaniel and Randall",SMB,2024-07-02,South,607
+C1029,Spencer LLC,SMB,2024-10-06,West,629
+C1030,Lopez-Jones,Individual,2025-03-21,West,607
+C1031,Crosby-Richardson,Enterprise,2023-10-20,South,779
+C1032,Lutz Group,Individual,2024-05-20,East,649
+C1033,"Garcia, Kim and Barrett",Individual,2025-05-27,West,575
+C1034,Wilson Group,SMB,2025-01-11,South,707
+C1035,Neal-Madden,SMB,2025-10-07,North,564
+C1036,"Schaefer, Levine and Brown",SMB,2023-08-13,South,664
+C1037,Morgan PLC,Individual,2025-05-14,North,512
+C1038,Martinez-Massey,Enterprise,2025-02-27,West,557
+C1039,"Porter, Hubbard and Miranda",Individual,2024-05-29,North,663
+C1040,"Nelson, Clarke and Schneider",Individual,2023-08-23,East,701
+C1041,Kelly-Estrada,SMB,2024-11-27,East,661
+C1042,Archer-Dixon,SMB,2025-06-09,West,641
+C1043,Tate Inc,Individual,2023-01-07,East,628
+C1044,King Group,SMB,2025-10-22,North,546
+C1045,Fuller and Sons,Individual,2024-09-03,South,599
+C1046,Garcia Inc,Enterprise,2023-11-10,South,617
+C1047,Jimenez Inc,Individual,2023-01-02,East,723
+C1048,Reyes Ltd,SMB,2025-09-27,North,674
+C1049,Hernandez-Howell,Enterprise,2025-01-13,South,526
+C1050,Wolf Ltd,SMB,2023-04-29,North,672
+C1051,"Saunders, Sparks and Harris",Individual,2023-06-25,West,623
+C1052,"Jimenez, Wagner and Daniels",Individual,2023-05-22,South,602
+C1053,"Payne, Cisneros and Johnson",Individual,2023-09-20,West,692
+C1054,Beard-Wilson,Enterprise,2023-12-05,West,722
+C1055,Edwards-Bennett,Individual,2024-03-09,South,715
+C1056,Johnson-Thompson,Enterprise,2024-09-30,East,591
+C1057,"Dalton, Turner and Mccarthy",Individual,2025-06-16,West,628
+C1058,Jordan-Edwards,SMB,2023-09-05,South,673
+C1059,Freeman-Rodriguez,Enterprise,2023-05-12,North,718
+C1060,"Henry, Spencer and Ryan",Individual,2024-04-16,South,616
+C1061,Alvarez-Dickerson,SMB,2023-01-15,North,637
+C1062,"Brown, Baker and Garza",SMB,2024-04-13,North,572
+C1063,Jensen-Gomez,SMB,2024-11-07,South,566
+C1064,Flores-Johnson,Individual,2024-07-24,West,706
+C1065,Anderson LLC,Individual,2024-03-14,South,744
+C1066,Pacheco-Silva,SMB,2025-08-26,West,644
+C1067,"Peterson, Davis and Reed",SMB,2025-04-13,North,720
+C1068,Jenkins-Brown,Individual,2023-07-18,West,675
+C1069,Wright Ltd,Enterprise,2024-12-26,West,604
+C1070,Watkins-Lozano,Individual,2025-08-14,North,675
+C1071,Melton Inc,SMB,2023-07-21,West,757
+C1072,Jackson-Ryan,SMB,2024-11-25,South,647
+C1073,Murray Group,SMB,2024-01-28,West,759
+C1074,"Robertson, Fisher and Smith",Enterprise,2023-10-15,South,466
+C1075,Chapman-Odom,Enterprise,2024-07-24,South,707
+C1076,Hudson-Morris,Enterprise,2023-06-04,North,656
+C1077,Stokes Inc,Individual,2023-04-14,North,629
+C1078,"Leonard, Rogers and Shaw",SMB,2023-07-11,South,656
+C1079,"Morgan, Mendez and Cox",Enterprise,2025-04-12,West,510
+C1080,Harris-Reid,Enterprise,2024-03-13,North,634
+C1081,Pittman PLC,Enterprise,2023-12-04,North,674
+C1082,Mitchell Inc,Enterprise,2025-03-10,West,753
+C1083,Davies-Morales,Enterprise,2024-08-07,West,613
+C1084,Weber Inc,SMB,2023-11-14,East,593
+C1085,"Richard, Davis and Rogers",SMB,2024-03-21,North,614
+C1086,Knight PLC,SMB,2024-10-04,North,714
+C1087,Simmons-Reed,Individual,2025-09-03,South,673
+C1088,Pearson LLC,Individual,2023-04-27,North,612
+C1089,"Brock, Reynolds and Fernandez",SMB,2024-01-16,North,685
+C1090,Perry LLC,Enterprise,2024-04-26,North,656
+C1091,"Robertson, Powers and Kelley",Individual,2024-05-19,North,717
+C1092,Burton PLC,Enterprise,2023-06-17,East,600
+C1093,Ray and Sons,SMB,2024-06-18,East,627
+C1094,"Hayden, Harmon and Mcdonald",Enterprise,2024-05-03,West,622
+C1095,"Patel, Mendez and Hammond",Individual,2023-09-26,East,547
+C1096,Michael-Barber,Enterprise,2025-07-25,North,670
+C1097,Boyd LLC,Enterprise,2023-01-20,North,668
+C1098,Hernandez-Hernandez,Individual,2023-05-31,South,650
+C1099,"Cannon, Richard and Jenkins",SMB,2024-06-27,East,633
+C1100,Walters Group,SMB,2023-05-21,East,550
+C1101,Colon-Lucas,SMB,2024-08-06,West,620
+C1102,Mcdaniel-Young,Individual,2024-09-11,North,626
+C1103,Wilson and Sons,Individual,2024-09-05,North,593
+C1104,Sanchez LLC,Enterprise,2023-10-03,North,638
+C1105,Washington-Esparza,Individual,2023-08-08,South,678
+C1106,Lucas-Johnson,Enterprise,2024-07-11,South,782
+C1107,Nelson Inc,SMB,2024-12-03,East,662
+C1108,Clarke-Ramirez,Enterprise,2025-09-27,North,668
+C1109,"Thompson, Phelps and Stuart",Individual,2023-07-09,West,644
+C1110,Casey-Brown,SMB,2024-07-20,North,515
+C1111,Edwards LLC,SMB,2024-11-14,East,648
+C1112,Lester Group,Individual,2023-11-27,West,654
+C1113,Powers-Blackwell,Individual,2025-05-25,North,822
+C1114,Hahn-Ramsey,SMB,2023-08-18,South,636
+C1115,Young PLC,Enterprise,2023-03-15,South,671
+C1116,"Mason, Martinez and Beck",SMB,2025-05-30,North,647
+C1117,"Herring, Huynh and King",Enterprise,2024-09-23,North,568
+C1118,Young Inc,SMB,2025-01-02,South,729
+C1119,Murphy-Silva,Enterprise,2023-07-30,West,702
